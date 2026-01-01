@@ -1,0 +1,13 @@
+# docker build -t yehudagav/streamlit-app:v1 .
+
+# docker run -d -p 8501:8080 yehudagav/streamlit-app:v1
+
+# docker push yehudagav/streamlit-app:v1
+
+# kubectl apply -f pod.yaml
+
+# kubectl apply -f service.yaml
+
+# kubectl get pods
+
+# kubectl get services

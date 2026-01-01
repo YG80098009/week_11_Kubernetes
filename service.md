@@ -1,0 +1,1 @@
+# יצרתי service שנקרא streamlit-service עם port 80 שמתחבר לport 8080

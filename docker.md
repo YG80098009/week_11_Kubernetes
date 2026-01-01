@@ -1,0 +1,1 @@
+# יצירת image בשביל האפליקציה ומעתיק את הקבצים main.py וrequirments.txt
